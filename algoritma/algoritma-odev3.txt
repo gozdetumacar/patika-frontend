@@ -1,0 +1,12 @@
+Proje3:
+
+1)Root olarak 7'yi aldım.
+2)5 rakamını 7'nin soluna yazdım.
+3)1 rakamını 5'in soluna yazdım.
+4)8 rakamını 7'nin sağına yazdım.
+5)3 rakamını 1'in sağına yazdım.
+6)6 rakamını 5'in sağına yazdım.
+7)0 rakamını 1'in soluna yazdım.
+8)9 rakamını 8'in sağına yazdım.
+9)4 rakamını 3'ün sağına yazdım.
+10)2 rakamını 3'ün soluna yazdım.
