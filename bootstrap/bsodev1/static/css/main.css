@@ -1,0 +1,19 @@
+body {
+    background-color: #E9ECEF;
+}
+
+.gallery-img{
+    width: 70%;
+}
+
+.title{
+    display:flex; 
+    justify-content:center; 
+    color:blueviolet;
+}
+
+.info_card{
+    margin-top: 60px; 
+    background-color: #E9ECEF; 
+    border:none;
+}
